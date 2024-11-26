@@ -1,0 +1,232 @@
+
+        <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="768" >
+        "
+   <defs>
+   <style>
+    text {  text-anchor: middle;  
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 12pt;
+            white-space: pre-wrap; 
+    }
+    tspan { white-space: pre-wrap; }
+    .tile_label_white { fill: white;  white-space: pre-wrap; }
+    .tile_label_black { fill: black;   white-space: pre-wrap; }
+    .group_outline { stroke: red; fill: white; stroke-width: 1; }
+    .group_outline:hover { fill: red; }
+   </style>
+   </defs>
+<g class="group">
+<title>cas</title>
+        <rect x="2" y="2" 
+        width="837"  height="764"
+        rx="5"  
+        class="group_outline" />
+        <g class="group">
+<title>School of Computer and Data Sciences</title>
+        <rect x="2" y="2" 
+        width="638"  height="764"
+        rx="5"  
+        class="group_outline" />
+        <g><rect x="4" y="4" 
+         width="634"  height="472"
+         rx="10"  fill="#3d006f" 
+         class="tile" />
+      <text x="321"  y="240"
+             class="tile_label_white" ><tspan>CS</tspan><br /><tspan x="321" dy="1em">77</tspan></text>
+          </g><text x="321"  y="240"
+             class="tile_label_white" ><tspan>CS</tspan><br /><tspan x="321" dy="1em">77</tspan></text>
+          <g><rect x="4" y="484" 
+         width="452"  height="280"
+         rx="10"  fill="#3d006f" 
+         class="tile" />
+      <text x="230"  y="624"
+             class="tile_label_white" ><tspan>DSCI</tspan><br /><tspan x="230" dy="1em">33</tspan></text>
+          </g><text x="230"  y="624"
+             class="tile_label_white" ><tspan>DSCI</tspan><br /><tspan x="230" dy="1em">33</tspan></text>
+          <g><rect x="464" y="484" 
+         width="174"  height="235"
+         rx="10"  fill="#3d006f" 
+         class="tile" />
+      <text x="551"  y="601"
+             class="tile_label_white" ><tspan>MACS</tspan><br /><tspan x="551" dy="1em">11</tspan></text>
+          </g><text x="551"  y="601"
+             class="tile_label_white" ><tspan>MACS</tspan><br /><tspan x="551" dy="1em">11</tspan></text>
+          <g><rect x="464" y="727" 
+         width="174"  height="37"
+         rx="10"  fill="#3d006f" 
+         class="tile" />
+      <text x="551"  y="745"
+             class="tile_label_white" ><tspan>CIS</tspan><br /><tspan x="551" dy="1em">2</tspan></text>
+          </g><text x="551"  y="745"
+             class="tile_label_white" ><tspan>CIS</tspan><br /><tspan x="551" dy="1em">2</tspan></text>
+          </g><g class="group">
+<title>Natural Sciences</title>
+        <rect x="644" y="2" 
+        width="195"  height="561"
+        rx="5"  
+        class="group_outline" />
+        <g><rect x="646" y="4" 
+         width="191"  height="153"
+         rx="10"  fill="#4d9eb7" 
+         class="tile" />
+      <text x="741"  y="80"
+             class="tile_label_black" ><tspan>PSY</tspan><br /><tspan x="741" dy="1em">8</tspan></text>
+          </g><text x="741"  y="80"
+             class="tile_label_black" ><tspan>PSY</tspan><br /><tspan x="741" dy="1em">8</tspan></text>
+          <g><rect x="646" y="165" 
+         width="191"  height="93"
+         rx="10"  fill="#4d9eb7" 
+         class="tile" />
+      <text x="741"  y="211"
+             class="tile_label_black" ><tspan>PHYS</tspan><br /><tspan x="741" dy="1em">5</tspan></text>
+          </g><text x="741"  y="211"
+             class="tile_label_black" ><tspan>PHYS</tspan><br /><tspan x="741" dy="1em">5</tspan></text>
+          <g><rect x="646" y="266" 
+         width="91"  height="153"
+         rx="10"  fill="#4d9eb7" 
+         class="tile" />
+      <text x="691"  y="342"
+             class="tile_label_black" ><tspan>MSCI</tspan><br /><tspan x="691" dy="1em">4</tspan></text>
+          </g><text x="691"  y="342"
+             class="tile_label_black" ><tspan>MSCI</tspan><br /><tspan x="691" dy="1em">4</tspan></text>
+          <g><rect x="745" y="266" 
+         width="92"  height="153"
+         rx="10"  fill="#4d9eb7" 
+         class="tile" />
+      <text x="791"  y="342"
+             class="tile_label_black" ><tspan>MATH</tspan><br /><tspan x="791" dy="1em">4</tspan></text>
+          </g><text x="791"  y="342"
+             class="tile_label_black" ><tspan>MATH</tspan><br /><tspan x="791" dy="1em">4</tspan></text>
+          <g><rect x="646" y="427" 
+         width="77"  height="134"
+         rx="10"  fill="#4d9eb7" 
+         class="tile" />
+      <text x="684"  y="494"
+             class="tile_label_black" ><tspan>BI</tspan><br /><tspan x="684" dy="1em">3</tspan></text>
+          </g><text x="684"  y="494"
+             class="tile_label_black" ><tspan>BI</tspan><br /><tspan x="684" dy="1em">3</tspan></text>
+          <g><rect x="731" y="427" 
+         width="106"  height="63"
+         rx="10"  fill="#4d9eb7" 
+         class="tile" />
+      <text x="784"  y="458"
+             class="tile_label_black" ><tspan>NEUR</tspan><br /><tspan x="784" dy="1em">2</tspan></text>
+          </g><text x="784"  y="458"
+             class="tile_label_black" ><tspan>NEUR</tspan><br /><tspan x="784" dy="1em">2</tspan></text>
+          <g><rect x="731" y="498" 
+         width="49"  height="63"
+         rx="10"  fill="#4d9eb7" 
+         class="tile" />
+      <title>MARB – 1</title></g><title>MARB – 1</title><g><rect x="788" y="498" 
+         width="49"  height="63"
+         rx="10"  fill="#4d9eb7" 
+         class="tile" />
+      <title>ESCI – 1</title></g><title>ESCI – 1</title></g><g class="group">
+<title>Social Sciences</title>
+        <rect x="644" y="567" 
+        width="195"  height="158"
+        rx="5"  
+        class="group_outline" />
+        <g><rect x="646" y="569" 
+         width="66"  height="154"
+         rx="10"  fill="#e7ade6" 
+         class="tile" />
+      <text x="679"  y="646"
+             class="tile_label_black" ><tspan>PS</tspan><br /><tspan x="679" dy="1em">3</tspan></text>
+          </g><text x="679"  y="646"
+             class="tile_label_black" ><tspan>PS</tspan><br /><tspan x="679" dy="1em">3</tspan></text>
+          <g><rect x="720" y="569" 
+         width="117"  height="56"
+         rx="10"  fill="#e7ade6" 
+         class="tile" />
+      <text x="778"  y="597"
+             class="tile_label_black" ><tspan>LING</tspan><br /><tspan x="778" dy="1em">2</tspan></text>
+          </g><text x="778"  y="597"
+             class="tile_label_black" ><tspan>LING</tspan><br /><tspan x="778" dy="1em">2</tspan></text>
+          <g><rect x="720" y="633" 
+         width="75"  height="90"
+         rx="10"  fill="#e7ade6" 
+         class="tile" />
+      <text x="757"  y="678"
+             class="tile_label_black" ><tspan>EC</tspan><br /><tspan x="757" dy="1em">2</tspan></text>
+          </g><text x="757"  y="678"
+             class="tile_label_black" ><tspan>EC</tspan><br /><tspan x="757" dy="1em">2</tspan></text>
+          <g><rect x="803" y="633" 
+         width="34"  height="90"
+         rx="10"  fill="#e7ade6" 
+         class="tile" />
+      <title>SDSC – 1</title></g><title>SDSC – 1</title></g><g class="group">
+<title>Humanities</title>
+        <rect x="644" y="729" 
+        width="195"  height="37"
+        rx="5"  
+        class="group_outline" />
+        <g><rect x="646" y="731" 
+         width="91"  height="33"
+         rx="10"  fill="#27e9fe" 
+         class="tile" />
+      <text x="691"  y="747"
+             class="tile_label_black" ><tspan>JPN</tspan><br /><tspan x="691" dy="1em">1</tspan></text>
+          </g><text x="691"  y="747"
+             class="tile_label_black" ><tspan>JPN</tspan><br /><tspan x="691" dy="1em">1</tspan></text>
+          <g><rect x="745" y="731" 
+         width="92"  height="33"
+         rx="10"  fill="#27e9fe" 
+         class="tile" />
+      <text x="791"  y="747"
+             class="tile_label_black" ><tspan>ENG</tspan><br /><tspan x="791" dy="1em">1</tspan></text>
+          </g><text x="791"  y="747"
+             class="tile_label_black" ><tspan>ENG</tspan><br /><tspan x="791" dy="1em">1</tspan></text>
+          </g></g><g><rect x="845" y="4" 
+         width="175"  height="321"
+         rx="10"  fill="#1fe122" 
+         class="tile" />
+      <title>EXPL (Undeclared) – 15</title></g><title>EXPL (Undeclared) – 15</title><g class="group">
+<title>Business</title>
+        <rect x="843" y="331" 
+        width="179"  height="347"
+        rx="5"  
+        class="group_outline" />
+        <g><rect x="845" y="333" 
+         width="175"  height="211"
+         rx="10"  fill="#10ba0d" 
+         class="tile" />
+      <text x="932"  y="438"
+             class="tile_label_black" ><tspan>PBA</tspan><br /><tspan x="932" dy="1em">10</tspan></text>
+          </g><text x="932"  y="438"
+             class="tile_label_black" ><tspan>PBA</tspan><br /><tspan x="932" dy="1em">10</tspan></text>
+          <g><rect x="845" y="552" 
+         width="144"  height="124"
+         rx="10"  fill="#10ba0d" 
+         class="tile" />
+      <text x="917"  y="614"
+             class="tile_label_black" ><tspan>BADM</tspan><br /><tspan x="917" dy="1em">5</tspan></text>
+          </g><text x="917"  y="614"
+             class="tile_label_black" ><tspan>BADM</tspan><br /><tspan x="917" dy="1em">5</tspan></text>
+          <g><rect x="997" y="552" 
+         width="23"  height="124"
+         rx="10"  fill="#10ba0d" 
+         class="tile" />
+      <title>ACTG – 1</title></g><title>ACTG – 1</title></g><g><rect x="845" y="684" 
+         width="37"  height="80"
+         rx="10"  fill="#efdf18" 
+         class="tile" />
+      <title>MUS – 1</title></g><title>MUS – 1</title><g class="group">
+<title>Design</title>
+        <rect x="888" y="682" 
+        width="134"  height="84"
+        rx="5"  
+        class="group_outline" />
+        <g><rect x="890" y="684" 
+         width="38"  height="80"
+         rx="10"  fill="#acd099" 
+         class="tile" />
+      <title>ATCH – 1</title></g><title>ATCH – 1</title><g><rect x="936" y="684" 
+         width="38"  height="80"
+         rx="10"  fill="#acd099" 
+         class="tile" />
+      <title>ATCF – 1</title></g><title>ATCF – 1</title><g><rect x="982" y="684" 
+         width="38"  height="80"
+         rx="10"  fill="#acd099" 
+         class="tile" />
+      <title>ARH – 1</title></g><title>ARH – 1</title></g></svg>
